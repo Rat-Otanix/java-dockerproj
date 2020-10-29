@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM  ratdev26/baseimage1.0
+FROM  phusion/baseimage:0.9.17
 
 MAINTAINER  Author Name ratneshc84@gmail.com
 
