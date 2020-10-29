@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM  ratdev26/baseimage:1.1.0
+FROM  ratdev26/baseimage1.0
 
 MAINTAINER  Author Name ratneshc84@gmail.com
 
